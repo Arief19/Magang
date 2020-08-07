@@ -1,0 +1,2 @@
+# Magang
+Coba belajar GIT
